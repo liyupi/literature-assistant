@@ -1,5 +1,7 @@
 # 鱼皮文献助手
 
+项目演示视频：[https://www.bilibili.com/video/BV1MnpVzdETW](https://www.bilibili.com/video/BV1MnpVzdETW)
+
 一个基于 Spring Boot 3 + Vue 的现代化文献管理后端服务，集成 AI 技术为用户提供智能文献阅读指南生成、文献管理和检索功能。
 
 ![](docs/wenxianzhushou-image.png)
